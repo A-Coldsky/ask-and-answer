@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">problem</string>
+    <string name="nextname">next</string>
+    <string name="truename">true</string>
+    <string name="falsename">false</string>
+    <string name="q1">太平洋是世界第一大洋</string>
+    <string name="q2">好好学习很有用</string>
+    <string name="q3">太阳从东边升起</string>
+    <string name="right">right!!!</string>
+    <string name="wrong">wrong...</string>
+</resources>
